@@ -1,0 +1,14 @@
+# Erster Test
+Startverteilung: (9,9)
+Gewonnene Spiele Spieler 1: 100%
+Gewonnene Spiele Spieler 2: 0%
+Beispiel eines von Spieler 1 gewonnenen Spiels:
+Zug 1, Spieler 1 : (9,9) -> (8,9)
+Zug 2, Spieler 2 : (8,9) -> (8,5)
+Zug 3, Spieler 1 : (8,5) -> (5,5)
+Zug 4, Spieler 2 : (5,5) -> (1,5)
+Zug 5, Spieler 1 : (1,5) -> (1,1)
+Zug 6, Spieler 2 : (1,1) -> (1,0)
+Zug 7, Spieler 1 : (1,0) -> (0,0)
+Beispiel eines von Spieler 2 gewonnenen Spiels:
+Nicht vorhanden
