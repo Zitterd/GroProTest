@@ -1,10 +1,16 @@
 \BOOKMARK [0][-]{chapter.1}{Aufgabenanalyse}{}% 1
-\BOOKMARK [0][-]{chapter.2}{Verfahrensbeschreibung}{}% 2
-\BOOKMARK [0][-]{chapter.3}{Programmbeschreibung}{}% 3
-\BOOKMARK [0][-]{chapter.4}{Testdokumentation}{}% 4
-\BOOKMARK [0][-]{chapter.5}{Zusammenfassung und Ausblick}{}% 5
-\BOOKMARK [0][-]{appendix.A}{Abweichungen und Erg\344nzungen zum Vorentwurf}{}% 6
-\BOOKMARK [0][-]{appendix.B}{Benutzeranleitung}{}% 7
-\BOOKMARK [0][-]{appendix.C}{Entwicklungsumgebung}{}% 8
-\BOOKMARK [0][-]{appendix.D}{Verwendete Hilfsmittel}{}% 9
-\BOOKMARK [0][-]{appendix.E}{Erkl\344rung}{}% 10
+\BOOKMARK [1][-]{section.1.1}{Analyse}{chapter.1}% 2
+\BOOKMARK [1][-]{section.1.2}{Eingabeformat}{chapter.1}% 3
+\BOOKMARK [1][-]{section.1.3}{Ausgabeformat}{chapter.1}% 4
+\BOOKMARK [1][-]{section.1.4}{Anforderungen an das Programm}{chapter.1}% 5
+\BOOKMARK [1][-]{section.1.5}{Sonderf\344lle}{chapter.1}% 6
+\BOOKMARK [1][-]{section.1.6}{Fehlerf\344lle}{chapter.1}% 7
+\BOOKMARK [0][-]{chapter.2}{Verfahrensbeschreibung}{}% 8
+\BOOKMARK [0][-]{chapter.3}{Programmbeschreibung}{}% 9
+\BOOKMARK [0][-]{chapter.4}{Testdokumentation}{}% 10
+\BOOKMARK [0][-]{chapter.5}{Zusammenfassung und Ausblick}{}% 11
+\BOOKMARK [0][-]{appendix.A}{Abweichungen und Erg\344nzungen zum Vorentwurf}{}% 12
+\BOOKMARK [0][-]{appendix.B}{Benutzeranleitung}{}% 13
+\BOOKMARK [0][-]{appendix.C}{Entwicklungsumgebung}{}% 14
+\BOOKMARK [0][-]{appendix.D}{Verwendete Hilfsmittel}{}% 15
+\BOOKMARK [0][-]{appendix.E}{Erkl\344rung}{}% 16
