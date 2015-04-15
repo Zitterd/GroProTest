@@ -3,10 +3,10 @@ Startverteilung: (3,4,5,0)
 Gewonnene Spiele Spieler 1: 100%
 Gewonnene Spiele Spieler 2: 0%
 Beispiel eines von Spieler 1 gewonnenen Spiels:
-Zug 1, Spieler 1 : (3,4,5,0) -> (3,4,3,0)
-Zug 2, Spieler 2 : (3,4,3,0) -> (3,3,3,0)
-Zug 3, Spieler 1 : (3,3,3,0) -> (3,3,0,0)
-Zug 4, Spieler 2 : (3,3,0,0) -> (3,0,0,0)
-Zug 5, Spieler 1 : (3,0,0,0) -> (0,0,0,0)
+Zug 1, Spieler 1 : (3,4,5,0) -> (3,2,5,0)
+Zug 2, Spieler 2 : (3,2,5,0) -> (2,2,5,0)
+Zug 3, Spieler 1 : (2,2,5,0) -> (2,2,0,0)
+Zug 4, Spieler 2 : (2,2,0,0) -> (0,2,0,0)
+Zug 5, Spieler 1 : (0,2,0,0) -> (0,0,0,0)
 Beispiel eines von Spieler 2 gewonnenen Spiels:
 Nicht vorhanden

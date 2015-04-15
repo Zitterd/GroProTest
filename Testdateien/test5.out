@@ -4,8 +4,8 @@ Gewonnene Spiele Spieler 1: 100%
 Gewonnene Spiele Spieler 2: 0%
 Beispiel eines von Spieler 1 gewonnenen Spiels:
 Zug 1, Spieler 1 : (9,8,8) -> (0,8,8)
-Zug 2, Spieler 2 : (0,8,8) -> (0,8,1)
-Zug 3, Spieler 1 : (0,8,1) -> (0,1,1)
+Zug 2, Spieler 2 : (0,8,8) -> (0,1,8)
+Zug 3, Spieler 1 : (0,1,8) -> (0,1,1)
 Zug 4, Spieler 2 : (0,1,1) -> (0,1,0)
 Zug 5, Spieler 1 : (0,1,0) -> (0,0,0)
 Beispiel eines von Spieler 2 gewonnenen Spiels:
