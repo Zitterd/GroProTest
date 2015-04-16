@@ -1,0 +1,21 @@
+k:Kontrolle
+m:Modell
+ea:EA
+spieler1:AlgoSp1
+spieler2:AlgoZufall
+
+k:ea.create
+k:ea.einlesen()
+k:m.create
+k:m.erstelleModell()
+k:spieler1.create
+k:spieler2.create
+[c:loop while spielende==false]
+k:m.spielende()
+[c:alt Spieler 1 ist am Zug]
+k:spieler1.zieheZug()
+--[else]
+k:spieler2.zieheZug()
+[/c]
+[/c]
+k:ea.ausgeben()

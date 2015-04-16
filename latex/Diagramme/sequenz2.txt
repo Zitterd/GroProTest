@@ -1,0 +1,12 @@
+m:Main
+c:Controller
+v:View
+o:Model
+
+m:c.process
+c:v.Erzeugen
+c:v.Einlesen
+c:o.Erzeugen
+c:o.Bearbeiten
+c:v.Ausgeben
+

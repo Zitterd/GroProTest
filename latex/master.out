@@ -6,11 +6,19 @@
 \BOOKMARK [1][-]{section.1.5}{Sonderf\344lle}{chapter.1}% 6
 \BOOKMARK [1][-]{section.1.6}{Fehlerf\344lle}{chapter.1}% 7
 \BOOKMARK [0][-]{chapter.2}{Verfahrensbeschreibung}{}% 8
-\BOOKMARK [0][-]{chapter.3}{Programmbeschreibung}{}% 9
-\BOOKMARK [0][-]{chapter.4}{Testdokumentation}{}% 10
-\BOOKMARK [0][-]{chapter.5}{Zusammenfassung und Ausblick}{}% 11
-\BOOKMARK [0][-]{appendix.A}{Abweichungen und Erg\344nzungen zum Vorentwurf}{}% 12
-\BOOKMARK [0][-]{appendix.B}{Benutzeranleitung}{}% 13
-\BOOKMARK [0][-]{appendix.C}{Entwicklungsumgebung}{}% 14
-\BOOKMARK [0][-]{appendix.D}{Verwendete Hilfsmittel}{}% 15
-\BOOKMARK [0][-]{appendix.E}{Erkl\344rung}{}% 16
+\BOOKMARK [1][-]{section.2.1}{Vorgehensweise}{chapter.2}% 9
+\BOOKMARK [1][-]{section.2.2}{Gesamtsystem}{chapter.2}% 10
+\BOOKMARK [2][-]{subsection.2.2.1}{Main-Funktion}{section.2.2}% 11
+\BOOKMARK [2][-]{subsection.2.2.2}{Model}{section.2.2}% 12
+\BOOKMARK [2][-]{subsection.2.2.3}{View}{section.2.2}% 13
+\BOOKMARK [2][-]{subsection.2.2.4}{Controller}{section.2.2}% 14
+\BOOKMARK [1][-]{section.2.3}{Datenfluss}{chapter.2}% 15
+\BOOKMARK [0][-]{chapter.3}{Programmbeschreibung}{}% 16
+\BOOKMARK [1][-]{section.3.1}{Pakete}{chapter.3}% 17
+\BOOKMARK [0][-]{chapter.4}{Testdokumentation}{}% 18
+\BOOKMARK [0][-]{chapter.5}{Zusammenfassung und Ausblick}{}% 19
+\BOOKMARK [0][-]{appendix.A}{Abweichungen und Erg\344nzungen zum Vorentwurf}{}% 20
+\BOOKMARK [0][-]{appendix.B}{Benutzeranleitung}{}% 21
+\BOOKMARK [0][-]{appendix.C}{Entwicklungsumgebung}{}% 22
+\BOOKMARK [0][-]{appendix.D}{Verwendete Hilfsmittel}{}% 23
+\BOOKMARK [0][-]{appendix.E}{Erkl\344rung}{}% 24
